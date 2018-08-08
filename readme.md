@@ -10,8 +10,8 @@
 <h5>1. Nainstalujte Unreal Engine 4 a Github Desktop.</h5>
 <h5>2. Přihlašte se pomocí vášho Github účtu do Github Desktop.</h5>
 <h5>3. Požádejte jednoho ze zakladatelů o přístup k (tomuto) repository. (pokud právě čtete tento text, přístup už máte :).)</h5>
-<h5>4. Otevřete Github Desktop a postupujte dle obrázků</h5>
-<h5>   1.</h5><img src="/github1.png"></img>
+<h5>4. Otevřete Github Desktop a postupujte dle obrázků:</h5>
+<h5>&nbsp;&nbsp;&nbsp;1.</h5><img src="/github1.png"></img>
 <h5>   2.</h5><img src="/github2.png"></img>
 <h5>   3.</h5><img src="/github3.png"></img>
 <h5>   4.</h5><img src="/github4.png"></img>

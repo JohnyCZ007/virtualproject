@@ -6,8 +6,8 @@
 <h5>1. Unreal Engine 4</h5>
 <h5>2. Github Desktop - https://desktop.github.com</h5>
 
-Kde nás kontaktovat:
-VirtualProject:
+<h3>Kde nás kontaktovat:
+<h5>VirtualProject:</h5>
 <a href="https://discord.gg/K4w3wva"><img src="/discord.png"></a></img>
-Členy Osobně:
-Benjamín Morozov - mailto://benjaminmorozov@gmail.com (benjaminmorozov@gmail.com)
+<h5>Členy Osobně:</h5>
+<p>Benjamín Morozov - mailto://benjaminmorozov@gmail.com (benjaminmorozov@gmail.com)</p>

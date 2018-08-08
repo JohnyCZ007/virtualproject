@@ -10,4 +10,5 @@
 <h5>VirtualProject:</h5>
 <a href="https://discord.gg/K4w3wva"><img src="/discord.png"></a></img>
 <h5>Členy Osobně:</h5>
-<p>Benjamín Morozov - mailto://benjaminmorozov@gmail.com </p>
+<p>Benjamín Morozov - benjaminmorozov@gmail.com </p>
+[Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)

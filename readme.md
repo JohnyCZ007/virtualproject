@@ -10,4 +10,4 @@
 <h5>VirtualProject:</h5>
 <a href="https://discord.gg/K4w3wva"><img src="/discord.png"></a></img>
 <h5>Členy Osobně:</h5>
-<p>Benjamín Morozov - https://mailto://benjaminmorozov@gmail.com (benjaminmorozov@gmail.com)</p>
+<p>Benjamín Morozov - mailto://benjaminmorozov@gmail.com </p>

@@ -17,6 +17,6 @@
 <a href="https://discord.gg/K4w3wva"><img src="/discord.png"></a></img>
 <h5>Členy Osobně:</h5>
 <p>Benjamín Morozov - <a href="mailto://benjaminmorozov@gmail.com">benjaminmorozov@gmail.com </p></a>
-<p>Jan Housa - </p>
+<p>Jan Housa - <a href="mailto://honza-housa@seznam.cz">honza-housa@seznam.cz </p></a> 
 <p>Petr Plisek - </>
 <p>Jakub Klapka - </p>

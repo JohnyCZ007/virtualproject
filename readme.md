@@ -6,9 +6,13 @@
 <h5>1. Unreal Engine 4</h5>
 <h5>2. Github Desktop - https://desktop.github.com</h5>
 <h5>3. Účet Github</h5>
+<h3>Postup:</h3>
+<h5>1. Nainstalujte Unreal Engine 4 a Github Desktop</h5>
+<h5>2. Přihlašte se pomocí vášho Github účtu do Github Desktop</h5>
 
 
-<h3>Kde nás kontaktovat:
+
+<h1>Kde nás kontaktovat:</h1>
 <h5>VirtualProject:</h5>
 <a href="https://discord.gg/K4w3wva"><img src="/discord.png"></a></img>
 <h5>Členy Osobně:</h5>

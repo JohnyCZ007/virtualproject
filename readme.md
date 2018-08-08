@@ -16,7 +16,8 @@
 <h8>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.</h8><img src="/github3.png"></img>
 <h8>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.</h8><img src="/github4.png"></img>
 <h8>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.</h8><img src="/github52.png"></img>
-
+<h5>4. Při změně souborů vyberte daný soubor, popište změnu, commitněte a pullněte soubor jako na obrázku:</h5>
+<img src="/github6.png"></img>
 <h1>Kde nás kontaktovat:</h1>
 <h5>VirtualProject:</h5>
 <a href="https://discord.gg/K4w3wva"><img src="/discord.png"></a></img>

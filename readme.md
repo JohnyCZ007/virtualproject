@@ -25,4 +25,5 @@
 <p>Benjamín Morozov - <a href="mailto://benjaminmorozov@gmail.com">benjaminmorozov@gmail.com </p></a>
 <p>Jan Housa - <a href="mailto://honza-housa@seznam.cz">honza-housa@seznam.cz </p></a> 
 <p>Petr Plisek - <a href="mailto://petrplisek01@seznam.cz">petrplisek01@seznam.cz</p></a>
-<p>Jakub Klapka - <a href="mailto://klapka.jacob@gmail.com">klapka.jacob@gmail.com</p></a
+<p>Jakub Klapka - <a href="mailto://klapka.jacob@gmail.com">klapka.jacob@gmail.com</p></a>
+<p>Filip Kubica - <a href="mailto://kubi.filip@gmail.com">kubi.filip@gmail.com</p></a>

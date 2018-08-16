@@ -3,7 +3,7 @@
 ----------------------------------------------------------------------
 <h1>Kolaborace na projektu:</h1>
 <h3>Požadavky:</h3>
-<h5>1. Unreal Engine 4</h5>
+<h5>1. Unreal Engine 4 - https://www.unrealengine.com/en-US/blog</h5>
 <h5>2. Github Desktop - https://desktop.github.com</h5>
 <h5>3. Účet Github</h5>
 <h3>Postup:</h3>
